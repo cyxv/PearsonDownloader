@@ -1,3 +1,4 @@
 # PearsonDownloader+
 
-this is blank for now but i'll improve it later probably
+downloads ebooks from Pearson's reader
+i'll make a tutorial on how to use this eventually probably
